@@ -72,7 +72,7 @@ export default function LandingPage() {
       ]}
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/futuristic-cyberpunk-neon-cityscape_23-2151966340.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/futuristic-cyberpunk-neon-cityscape_23-2151966340.jpg?_wi=1",
           imageAlt: "futuristic tech background neon",
         },
         {
@@ -109,14 +109,14 @@ export default function LandingPage() {
           title: "AI Automation",
           description: "Automate complex business operations to save 120+ hours monthly.",
           phoneOne: {
-            imageSrc: "http://img.b2bpic.net/free-vector/computer-education-sticker-part-3_534985-141.jpg",
+            imageSrc: "http://img.b2bpic.net/free-vector/computer-education-sticker-part-3_534985-141.jpg?_wi=1",
             imageAlt: "3d ai automation icon",
           },
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-vector/creative-process-concept-icons-set_98292-1706.jpg",
             imageAlt: "3d ai automation icon",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/futuristic-cyberpunk-neon-cityscape_23-2151966340.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/futuristic-cyberpunk-neon-cityscape_23-2151966340.jpg?_wi=2",
           imageAlt: "3d ai automation icon",
         },
         {
@@ -137,14 +137,14 @@ export default function LandingPage() {
           title: "AI Voice Assistants",
           description: "Advanced voice interaction systems for modern commerce.",
           phoneOne: {
-            imageSrc: "http://img.b2bpic.net/free-photo/business-chart-visual-graphics-report-concept_53876-167093.jpg",
+            imageSrc: "http://img.b2bpic.net/free-photo/business-chart-visual-graphics-report-concept_53876-167093.jpg?_wi=1",
             imageAlt: "voice assistant icon digital",
           },
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-vector/smart-speaker-3d-vector-illustration-voice-control-digital-assistant-cartoon-style-isolated-white-background-modern-technology-artificial-intelligence-smart-home-concept_778687-734.jpg",
             imageAlt: "voice assistant icon digital",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/old-man-standing-office-with-laptop_1157-33379.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/old-man-standing-office-with-laptop_1157-33379.jpg?_wi=1",
           imageAlt: "3d ai automation icon",
         },
       ]}
@@ -203,7 +203,7 @@ export default function LandingPage() {
           id: "p1",
           name: "Fintech Workflow",
           price: "Saved 200hrs",
-          imageSrc: "http://img.b2bpic.net/free-photo/business-chart-visual-graphics-report-concept_53876-167093.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/business-chart-visual-graphics-report-concept_53876-167093.jpg?_wi=2",
         },
         {
           id: "p2",
@@ -254,7 +254,7 @@ export default function LandingPage() {
           role: "CEO",
           company: "TechStream",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/old-man-standing-office-with-laptop_1157-33379.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/old-man-standing-office-with-laptop_1157-33379.jpg?_wi=2",
         },
         {
           id: "2",
@@ -332,7 +332,7 @@ export default function LandingPage() {
             text: "Get Started",
             href: "#contact",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/futuristic-cyberpunk-neon-cityscape_23-2151966340.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/futuristic-cyberpunk-neon-cityscape_23-2151966340.jpg?_wi=3",
           imageAlt: "3D rendering futuristic sci-fi techno background with lights creating cool shapes",
         },
         {
@@ -350,7 +350,7 @@ export default function LandingPage() {
             text: "Schedule Call",
             href: "#contact",
           },
-          imageSrc: "http://img.b2bpic.net/free-vector/computer-education-sticker-part-3_534985-141.jpg",
+          imageSrc: "http://img.b2bpic.net/free-vector/computer-education-sticker-part-3_534985-141.jpg?_wi=2",
           imageAlt: "3D rendering futuristic sci-fi techno background with lights creating cool shapes",
         },
       ]}
