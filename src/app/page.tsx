@@ -164,7 +164,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       background={{ variant: "sparkles-gradient" }}
       text="Ready to Transform Your Business With AI?"
-      buttons={[{ text: "Schedule a Call", href: "#" }]}
+      buttons={[{ text: "Book Your Free Strategy Session", href: "#" }]}
     />
   </div>
 
