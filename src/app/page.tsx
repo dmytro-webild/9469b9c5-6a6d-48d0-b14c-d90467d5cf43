@@ -51,7 +51,7 @@ export default function LandingPage() {
         { text: "View Services", href: "#services" },
       ]}
       mediaItems={[
-        { imageSrc: "http://img.b2bpic.net/free-photo/futuristic-cyberpunk-neon-cityscape_23-2151966340.jpg", imageAlt: "futuristic tech background neon" },
+        { imageSrc: "http://img.b2bpic.net/free-photo/futuristic-cyberpunk-neon-cityscape_23-2151966340.jpg?_wi=1", imageAlt: "futuristic tech background neon" },
         { imageSrc: "http://img.b2bpic.net/free-photo/3d-render-abstract-background-flowing-particles_1048-14872.jpg", imageAlt: "futuristic tech background neon" }
       ]}
       mediaAnimation="blur-reveal"
@@ -68,7 +68,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       features={[
         {
-          title: "AI Automation",          description: "Automate complex business operations to save 120+ hours monthly.",          phoneOne: { imageSrc: "http://img.b2bpic.net/free-vector/computer-education-sticker-part-3_534985-141.jpg", imageAlt: "3d ai automation icon" },
+          title: "AI Automation",          description: "Automate complex business operations to save 120+ hours monthly.",          phoneOne: { imageSrc: "http://img.b2bpic.net/free-vector/computer-education-sticker-part-3_534985-141.jpg?_wi=1", imageAlt: "3d ai automation icon" },
           phoneTwo: { imageSrc: "http://img.b2bpic.net/free-vector/creative-process-concept-icons-set_98292-1706.jpg", imageAlt: "3d ai automation icon" }
         },
         {
@@ -76,7 +76,7 @@ export default function LandingPage() {
           phoneTwo: { imageSrc: "http://img.b2bpic.net/free-photo/tablet-with-drawing-wifi-internet_1134-225.jpg", imageAlt: "chat bot technology icon" }
         },
         {
-          title: "AI Voice Assistants",          description: "Advanced voice interaction systems for modern commerce.",          phoneOne: { imageSrc: "http://img.b2bpic.net/free-photo/business-chart-visual-graphics-report-concept_53876-167093.jpg", imageAlt: "voice assistant icon digital" },
+          title: "AI Voice Assistants",          description: "Advanced voice interaction systems for modern commerce.",          phoneOne: { imageSrc: "http://img.b2bpic.net/free-photo/business-chart-visual-graphics-report-concept_53876-167093.jpg?_wi=1", imageAlt: "voice assistant icon digital" },
           phoneTwo: { imageSrc: "http://img.b2bpic.net/free-vector/smart-speaker-3d-vector-illustration-voice-control-digital-assistant-cartoon-style-isolated-white-background-modern-technology-artificial-intelligence-smart-home-concept_778687-734.jpg", imageAlt: "voice assistant icon digital" }
         }
       ]}
@@ -114,7 +114,7 @@ export default function LandingPage() {
       gridVariant="bento-grid"
       useInvertedBackground={false}
       products={[
-        { id: "p1", name: "Fintech Workflow", price: "Saved 200hrs", imageSrc: "http://img.b2bpic.net/free-photo/business-chart-visual-graphics-report-concept_53876-167093.jpg" },
+        { id: "p1", name: "Fintech Workflow", price: "Saved 200hrs", imageSrc: "http://img.b2bpic.net/free-photo/business-chart-visual-graphics-report-concept_53876-167093.jpg?_wi=2" },
         { id: "p2", name: "Retail Chatbot", price: "5X Leads", imageSrc: "http://img.b2bpic.net/free-photo/financial-software-ui-pc-screen-apartment-office-desk_482257-122945.jpg" },
         { id: "p3", name: "Health CRM", price: "Increased ROI", imageSrc: "http://img.b2bpic.net/free-photo/flag-sign-right-side_187299-45945.jpg" },
         { id: "p4", name: "Logistics AI", price: "Scaling Systems", imageSrc: "http://img.b2bpic.net/free-photo/luxurious-boardroom-space-within-multinational-company-used-meetings_482257-124520.jpg" },
@@ -151,8 +151,8 @@ export default function LandingPage() {
       useInvertedBackground={false}
       plans={[
         { id: "starter", title: "Starter", price: "$2,999", period: "/mo", features: ["3 AI Workflows", "Chatbot Basic", "Email Support"], button: { text: "Get Started", href: "#contact" }, imageSrc: "http://img.b2bpic.net/free-photo/3d-rendering-futuristic-sci-fi-techno-background-with-lights-creating-cool-shapes_181624-27757.jpg" },
-        { id: "growth", title: "Growth", price: "$5,999", period: "/mo", features: ["10 AI Workflows", "Advanced Chatbots", "Priority Support", "Dashboard Access"], button: { text: "Get Started", href: "#contact" }, imageSrc: "http://img.b2bpic.net/free-photo/futuristic-cyberpunk-neon-cityscape_23-2151966340.jpg" },
-        { id: "enterprise", title: "Enterprise", price: "Custom", period: "", features: ["Unlimited Workflows", "Full Custom Build", "Dedicated Architect", "24/7 Priority"], button: { text: "Schedule Call", href: "#contact" }, imageSrc: "http://img.b2bpic.net/free-vector/computer-education-sticker-part-3_534985-141.jpg" }
+        { id: "growth", title: "Growth", price: "$5,999", period: "/mo", features: ["10 AI Workflows", "Advanced Chatbots", "Priority Support", "Dashboard Access"], button: { text: "Get Started", href: "#contact" }, imageSrc: "http://img.b2bpic.net/free-photo/futuristic-cyberpunk-neon-cityscape_23-2151966340.jpg?_wi=2" },
+        { id: "enterprise", title: "Enterprise", price: "Custom", period: "", features: ["Unlimited Workflows", "Full Custom Build", "Dedicated Architect", "24/7 Priority"], button: { text: "Schedule Call", href: "#contact" }, imageSrc: "http://img.b2bpic.net/free-vector/computer-education-sticker-part-3_534985-141.jpg?_wi=2" }
       ]}
       title="Choose Your Path"
       description="Scaling automation solutions for every business size."
